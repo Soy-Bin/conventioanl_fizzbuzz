@@ -6,6 +6,7 @@
 ## Prerequisites
 
 - python==3.11.0
+- jupyter notebook
 - fastapi
 
 ## How to start
